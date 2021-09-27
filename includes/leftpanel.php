@@ -35,7 +35,7 @@
                             <a href="product_list.php"><i class="fa fa-edit fa-fw"></i>Company List</a>
                         </li>
                         <li>
-                            <a href="product_list.php"><i class="fa fa-edit fa-fw"></i>Company test</a>
+                            <a href="product_list.php"><i class="fa fa-edit fa-fw"></i>product test</a>
                         </li>
                             </ul>
                             
