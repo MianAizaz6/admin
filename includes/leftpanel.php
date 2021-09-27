@@ -31,6 +31,9 @@
                         <li>
                             <a href="add_company.php"><i class="fa fa-edit fa-fw"></i> add company</a>
                         </li>
+                        <li>
+                            <a href="product_list.php"><i class="fa fa-edit fa-fw"></i>Company List</a>
+                        </li>
                             </ul>
                             
                       
